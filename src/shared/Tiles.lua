@@ -1,5 +1,3 @@
-math.randomseed(tick())
-tween = game:GetService("TweenService")
 fastwait = require(game:GetService("ReplicatedStorage").FastWait)
 
 --colors for mine count numbers
